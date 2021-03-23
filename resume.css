@@ -32,6 +32,10 @@ title {
     }
 }
 
+body {
+    padding: 10px;
+}
+
 html {
     font: 11pt "Euclid";
     color: black;
