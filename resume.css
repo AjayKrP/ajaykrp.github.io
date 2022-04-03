@@ -1,7 +1,7 @@
 @page {
     size: US-Letter;
     margin: 1in .75in .75in .75in;
-    font: 11pt "Euclid";
+    font: 14pt "Euclid";
 
     @top {
         content: string(doctitle);
@@ -37,7 +37,7 @@ body {
 }
 
 html {
-    font: 11pt "Euclid";
+    font: 14pt "Euclid";
     color: black;
     background: white;
 }
@@ -121,7 +121,7 @@ table {
 }
 
 tr {
-    height: 20px;
+    height: 26px;
 }
 
     tr:last-child {
